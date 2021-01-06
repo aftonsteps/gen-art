@@ -1,7 +1,10 @@
 ## Experimenting with colors and patterns
+## If you just use a runif * x^2 - sin(y^2) for x, and runif * y^2 for y, you get 
+## sometimes a series of unevenly spaced radii with a wavy gap,
+## but one of these is a spiral instead
 
 ## Not trig functions
-iter <- "4"
+iter <- "10"
 
 # Set the paths
 IMG_DIR <- paste0(iter, "/img/")
@@ -22,8 +25,8 @@ generativeart::setup_directories(IMG_DIR,
 
 ## Set up the formula
 example_formula <- list(
-  x = quote(runif(1, -1, 10) * x_i^2 - (x_i^2) + (x_i^3)),
-  y = quote(runif(1, -1, 10) * y_i^1 - (y_i^3) + y_i^4)
+  x = quote(runif(1, -1, 10) * x_i^2 - sin(y_i^2)),
+  y = quote(runif(1, -1, 10) * y_i^2 - cos(x_i^2))
 )
 
 ## Create!

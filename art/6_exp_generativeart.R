@@ -1,7 +1,9 @@
 ## Experimenting with colors and patterns
+## If you just use a runif * x for x, and runif * y for y, you get 
+## a series of radii
 
 ## Not trig functions
-iter <- "4"
+iter <- "6"
 
 # Set the paths
 IMG_DIR <- paste0(iter, "/img/")
@@ -22,8 +24,8 @@ generativeart::setup_directories(IMG_DIR,
 
 ## Set up the formula
 example_formula <- list(
-  x = quote(runif(1, -1, 10) * x_i^2 - (x_i^2) + (x_i^3)),
-  y = quote(runif(1, -1, 10) * y_i^1 - (y_i^3) + y_i^4)
+  x = quote(runif(1, -1, 10) * x_i),
+  y = quote(runif(1, -1, 10) * y_i)
 )
 
 ## Create!

@@ -1,7 +1,0 @@
-file_name	seed	formula_x	formula_y
-NA	NA	NA	NA
-2021-01-03-08-47_seed_8711.png	8711	runif(1, -1, 10) * x_i^2 - (y_i^2)	runif(1, -1, 10) * y_i^3 - (x_i^2)
-2021-01-03-08-47_seed_8023.png	8023	runif(1, -1, 10) * x_i^2 - (y_i^2)	runif(1, -1, 10) * y_i^3 - (x_i^2)
-2021-01-03-08-47_seed_3879.png	3879	runif(1, -1, 10) * x_i^2 - (y_i^2)	runif(1, -1, 10) * y_i^3 - (x_i^2)
-2021-01-03-08-48_seed_9482.png	9482	runif(1, -1, 10) * x_i^2 - (y_i^2)	runif(1, -1, 10) * y_i^3 - (x_i^2)
-2021-01-03-08-48_seed_8481.png	8481	runif(1, -1, 10) * x_i^2 - (y_i^2)	runif(1, -1, 10) * y_i^3 - (x_i^2)
