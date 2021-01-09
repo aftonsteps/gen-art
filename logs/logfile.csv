@@ -117,3 +117,28 @@ NA	NA	NA	NA
 2021-01-04-23-57_seed_6971.png	6971	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
 2021-01-04-23-57_seed_4956.png	4956	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
 2021-01-04-23-58_seed_1871.png	1871	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-28_seed_2405.png	2405	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-29_seed_4787.png	4787	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-29_seed_742.png	742	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-30_seed_1005.png	1005	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-30_seed_34.png	34	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-31_seed_2074.png	2074	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-31_seed_9347.png	9347	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-32_seed_6007.png	6007	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-32_seed_225.png	225	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-33_seed_3182.png	3182	runif(1, -1, 10) * y_i + sin(y_i^2) * x_i	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-36_seed_6648.png	6648	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-37_seed_7373.png	7373	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-37_seed_5553.png	5553	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-38_seed_7869.png	7869	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-38_seed_8402.png	8402	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i^3 - cos(x_i^2) * y_i
+2021-01-06-21-41_seed_477.png	477	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-41_seed_5140.png	5140	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-41_seed_3282.png	3282	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-42_seed_717.png	717	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-42_seed_7165.png	7165	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-48_seed_7489.png	7489	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-49_seed_1820.png	1820	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-49_seed_5664.png	5664	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-50_seed_121.png	121	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
+2021-01-06-21-50_seed_2964.png	2964	runif(1, -1, 10) * y_i + sin(y_i^2)	runif(1, -1, 10) * x_i - cos(x_i^2) * y_i^4
